@@ -1,0 +1,14 @@
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\bin\Debug\net10.0-windows\jeux.exe
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\bin\Debug\net10.0-windows\jeux.deps.json
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\bin\Debug\net10.0-windows\jeux.runtimeconfig.json
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\bin\Debug\net10.0-windows\jeux.dll
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\bin\Debug\net10.0-windows\jeux.pdb
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\obj\Debug\net10.0-windows\jeux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\obj\Debug\net10.0-windows\jeux.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\obj\Debug\net10.0-windows\jeux.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\obj\Debug\net10.0-windows\jeux.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\obj\Debug\net10.0-windows\jeux.dll
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\obj\Debug\net10.0-windows\refint\jeux.dll
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\obj\Debug\net10.0-windows\jeux.pdb
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\obj\Debug\net10.0-windows\jeux.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\vs code\jeux\_archive\avant_nettoyage_20261004\obj\Debug\net10.0-windows\ref\jeux.dll
