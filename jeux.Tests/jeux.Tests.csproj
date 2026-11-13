@@ -18,6 +18,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="..\**\*.cs" Exclude="..\Program.cs;..\jeux.Tests\**;..\_archive\**;..\bin\**;..\obj\**" />
+    <Compile Include="..\**\*.cs" Exclude="..\Program.cs;..\jeux.Tests\**;..\bin\**;..\obj\**" />
   </ItemGroup>
 </Project>

@@ -13,9 +13,6 @@
     <Compile Remove="jeux.Tests\**\*.cs" />
     <None Remove="jeux.Tests\**\*" />
     <Content Remove="jeux.Tests\**\*" />
-    <Compile Remove="_archive\**\*" />
-    <None Remove="_archive\**\*" />
-    <Content Remove="_archive\**\*" />
   </ItemGroup>
 
   <ItemGroup>

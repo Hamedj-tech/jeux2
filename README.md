@@ -13,7 +13,7 @@ Un jeu de rôle 2D en C# développé avec .NET Windows Forms. Incarnez un héros
 ## 🚀 Lancement rapide
 
 ### Prérequis
-- [.NET 8.0 SDK](https://dotnet.microsoft.com/download) ou version ultérieure (Windows).
+- [.NET 10.0 SDK](https://dotnet.microsoft.com/download) ou version ultérieure (Windows).
 
 ### Exécution
 Pour lancer le jeu depuis un terminal :
